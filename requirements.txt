@@ -1,0 +1,11 @@
+pymongo == 3.7.2
+reportlab
+scikit-learn
+boto3
+pandas
+svglib
+requests
+bs4
+markdown
+zlib
+matplotlib
